@@ -4,6 +4,8 @@
 This project is mainly focus on build an asynchronous fifo in verilog and make further optimization.
 Also, this project is used as github 101 to let me familar with github.
 
+In this project we will try to implement priority with FIFO.
+
 #What is FIFO?
 FIFO means first in first out. a method for organizing and manipulating a data buffer. FIFOs are commonly used in electronic circuits for buffering and flow control between hardware and software. In its hardware form, a FIFO primarily consists of a set of read and write pointers, storage and control logic. Storage may be static random access memory (SRAM), flip-flops, latches or any other suitable form of storage. For FIFOs of non-trivial size, a dual-port SRAM is usually used, where one port is dedicated to writing and the other to reading.
 
